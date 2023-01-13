@@ -10,7 +10,7 @@
 
 Current: working out, skiing, road trips, blogging, reading, cooking
 
-Want to try: hunting
+Want to try: hunting, music production
 
 ## SKILLS
 

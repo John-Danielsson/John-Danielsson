@@ -2,7 +2,8 @@
 
 ## QUICK FACTS
 
-- Machine Learning / Data Science student at [BloomTech](https://www.bloomtech.com)
+- Data Scientist | Machine Learning Engineer
+- Currently exploring new projects and career opportunities
 - Working on a "What Twitter currently thinks" app
 - 6'5"
 
@@ -14,7 +15,7 @@ Want to try: hunting, music production
 
 ## SKILLS
 
-Python, C++, C, Java, HTML, CSS, NumPy, Pandas, Scikit-learn, SQL, TensorFlow, Keras, Flask, Plotly, OOP, Matplotlib, Exploratory Data Analysis, Data/K-Cluster/Predictive Analysis, Multivariate Regressions, Machine Learning, Convolutional Neural Networks, Latent Dirichlet Allocation, Data Wrangling and Cleaning, Top 10% LeetCode
+Python, C++, C, Java, HTML, CSS, NumPy, Pandas, Scikit-learn, SQL, TensorFlow, Keras, Flask, Plotly, OOP, Matplotlib, Exploratory Data Analysis, Data/K-Cluster/Predictive Analysis, Multivariate Regressions, Machine Learning, Convolutional Neural Networks, Latent Dirichlet Allocation, Data Wrangling and Cleaning, Top 7% LeetCode
 
 ## CONNECT WITH ME
 

@@ -21,6 +21,8 @@ Python, C++, Java, HTML, CSS, NumPy, Pandas, Scikit-learn, SQL, TensorFlow, Kera
 
 [LinkedIn](https://www.linkedin.com/in/johndanielsson/)
 
+[Blog](https://medium.com/@johnonthepath)
+
 [LeetCode](https://leetcode.com/johnonthepath/)
 
-[Blog](https://medium.com/@johnonthepath)
+[CodeSignal](https://app.codesignal.com/profile/john_6p7)

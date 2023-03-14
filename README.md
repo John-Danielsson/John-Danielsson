@@ -4,7 +4,7 @@
 
 - Data Scientist | Machine Learning Engineer
 - Currently exploring new projects and career opportunities
-- Working on a "What Twitter currently thinks" app
+- Working on my final project at BloomTech
 - 6'5"
 
 ## HOBBIES

@@ -20,7 +20,7 @@ ChatGPT, Javascript, MongoDB, Matplotlib, Databases, Data Structures, Algorithms
 
 ## CONNECT WITH ME
 
-johnaugustd at gmail dot com
+johnaugustd at gmail dot com (it's written this way for protection against bots)
 
 [LinkedIn](https://www.linkedin.com/in/johndanielsson/)
 

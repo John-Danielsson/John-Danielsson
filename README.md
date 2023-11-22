@@ -16,7 +16,7 @@ Want to try: hunting, music production
 ## SKILLS
 
 Python, C++, Java, HTML, CSS, NumPy, Pandas, Scikit-learn, SQL, TensorFlow, Keras, Flask, Plotly, OOP, Docker
-ChatGPT, Javascript, MongoDB, Matplotlib, Databases, Data Structures, Algorithms, Unix, APIs, Kubernetes, CI/CD, Data/K-Cluster, Excel, Microsoft Office, Predictive Analysis, Altair, Multivariate Regressions, Machine Learning, ETL, NLP, GitHub, Convolutional Neural Networks, Random Forest, XGBoost, Hypothesis Testing, Regression Modeling, LSTM, RNN, Bayesian Probability, Jupyter, Colab, Latent Dirichlet Allocation, React.js, Gaussian Process, Decision Tree, Data Wrangling and Cleaning, Top 250,000 LeetCode, GCA Score: 776
+ChatGPT, Javascript, MongoDB, Matplotlib, Databases, Data Structures, Algorithms, Unix, APIs, Kubernetes, CI/CD, Data/K-Cluster, Excel, Microsoft Office, Predictive Analysis, Altair, Multivariate Regressions, Machine Learning, ETL, NLP, GitHub, Convolutional Neural Networks, Random Forest, XGBoost, Hypothesis Testing, Regression Modeling, LSTM, RNN, Bayesian Probability, Jupyter, Colab, Latent Dirichlet Allocation, React.js, Gaussian Process, Decision Tree, Data Wrangling and Cleaning, Top 200,000 LeetCode, GCA Score: 776
 
 ## CONNECT WITH ME
 

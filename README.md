@@ -25,7 +25,7 @@ A personal note is fine, but avoid long backstories -->
 
 ## Certifications
 
-Badges or icons for each cert
+<!-- Badges or icons for each cert -->
 * CompTIA Network+ (N10-009) ([verification](https://www.credly.com/badges/9c4c698f-1fc3-40e5-be92-cba1e36edaf1/public_url))
 * CompTIA Security+ (SY0-701) ([verification](https://www.credly.com/badges/6c3ddf5c-8338-4d09-a80c-c39cd57ea085/public_url))
 * Microsoft Azure Fundamentals (AZ-900) ([verification](https://learn.microsoft.com/en-us/users/johndanielsson-3408/transcript/7xnnrhjnx8roxwj))
